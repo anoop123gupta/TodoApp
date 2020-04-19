@@ -1,3 +1,38 @@
+body{
+  /* background-image: url('https://cdn.europosters.eu/image/750webp/66372.webp');
+   */
+   background-image: url('https://media.gettyimages.com/photos/leaf-on-the-water-picture-id496438640?s=2048x2048');
+  /* background-repeat: no-repeat;   */
+  background-attachment: fixed;
+  background-size: cover;
+  max-width: auto;
+  height: 100%;
+}
+.topnav {
+  overflow: hidden;
+  background-color:rgb(57, 172, 172);
+  margin-bottom: 20px;
+  margin-top:20px;
+  text-align: center;
+  cursor: none;
+}
+.topnav a {
+  float: none;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
